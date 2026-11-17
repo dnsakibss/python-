@@ -17,4 +17,5 @@ print("Type of c ",type(c))
 d= float(c)
 print("Typecasted to float ",d, type(d))
 print(q)
+
 print(type(b)) # same without variable
